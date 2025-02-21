@@ -569,6 +569,17 @@ button:focus {
     padding-bottom: 100px;
 }
 
+.footer-container {
+    display: flex;
+    align-items: baseline;
+
+}
+
+
+.footer-logo-par {
+    margin-right: 120px
+}
+
 .webstudio-end {
     display: inline-block;
     text-decoration: none;
