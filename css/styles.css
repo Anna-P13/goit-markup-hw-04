@@ -570,9 +570,13 @@ button:focus {
 }
 
 .footer-container {
+    max-width: 1158px;
+    margin: 0 auto;
+    padding-left: 15px;
+    padding-right: 15px;
     display: flex;
     align-items: baseline;
-
+    justify-content: flex-start;
 }
 
 
@@ -617,9 +621,8 @@ button:focus {
     width: 208px;
     height: 80px;
     gap: 16px;
-    display: flex;
-    align-items: baseline;
     margin-right: 120px;
+
 }
 
 .footer-par {
